@@ -1,0 +1,1 @@
+export const BUY_BAG = 'BUY_BAG'
